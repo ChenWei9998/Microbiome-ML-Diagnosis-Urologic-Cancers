@@ -22,7 +22,6 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
