@@ -12,21 +12,9 @@
   Email: [begin121@163.com](mailto:begin121@163.com)  
 
 ## Affiliation
+
 1. Urological Department, The Affiliated Hospital of Qingdao University, Qingdao, 266000  
 2. Operating Room, The Affiliated Hospital of Qingdao University, Qingdao, 266000  
-
-## Abstract
-
-Recent advances in microbiome research have highlighted the potential role of microbial communities in modulating human health with urologic cancers. This study aims to comprehensively characterize the intestinal and urinary microbiome profiles of Renal Cell Carcinoma (RCC) and Bladder Cancer (BLCA). We analyzed microbial alpha and beta diversity to understand the compositional differences between healthy controls and cancer patients, revealing significant clustering patterns. These findings suggest that urinary tract cancers are associated with alterations in the gut and urinary microbiome, potentially serving as biomarkers for disease diagnosis. Furthermore, the study evaluates the performance of machine learning models in classifying cancer status based on microbial composition using eight machine learning models. The models demonstrated remarkable performance in diagnosing the disease, achieving accuracy rates exceeding 80%, and even surpassing 90% in some cases. Among these, Random Forest and XGBoost stood out as top performers, showcasing exceptional capabilities in predicting and classifying disease status based on microbial composition data. This study highlights the potential of microbiome-based approaches in precision medicine.
-
-## Keywords
-
-- Machine Learning
-- Urine Microbiome
-- Urologic Cancers
-- Biomarkers
-- Renal Cell Carcinoma
-- Bladder Cancer
 
 ## Table of Contents
 
