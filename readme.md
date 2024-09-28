@@ -12,7 +12,6 @@
   Email: [begin121@163.com](mailto:begin121@163.com)  
 
 ## Affiliation
-
 1. Urological Department, The Affiliated Hospital of Qingdao University, Qingdao, 266000  
 2. Operating Room, The Affiliated Hospital of Qingdao University, Qingdao, 266000  
 
